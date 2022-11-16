@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.example.StringDrinkTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-16T11:40:46" hostname="DESKTOP-9P6O7OK" time="0.031">
-  <properties/>
-  <testcase name="stringDrink()" classname="org.example.StringDrinkTest" time="0.031"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
