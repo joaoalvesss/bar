@@ -10,11 +10,13 @@ public class StringBar extends Bar{
     }
     public void startHappyHour(){
         happyHour = true;
+        this.notifyObservers();
     }
     public void endHappyHour(){
         happyHour = false;
+        this.notifyObservers();
     }
     public void order(StringDrink drink, StringRecipe recipe){
-        
+
     }
 }

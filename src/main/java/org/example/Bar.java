@@ -1,9 +1,10 @@
 package org.example;
 
+import java.util.ArrayList;
 import java.util.List;
 
 abstract class Bar {
-    public List<BarObserver> observers;
+    public List<BarObserver> observers = new ArrayList<>();
     abstract public boolean isHappyHour();
     abstract public void startHappyHour();
     abstract public void endHappyHour();
