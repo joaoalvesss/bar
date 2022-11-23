@@ -17,6 +17,6 @@ public class StringBar extends Bar{
         this.notifyObservers();
     }
     public void order(StringDrink drink, StringRecipe recipe){
-
+        recipe.mix(drink);
     }
 }

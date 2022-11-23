@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.example.HumanClientTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-11-23T11:39:48" hostname="DESKTOP-9P6O7OK" time="0.785">
-  <properties/>
-  <testcase name="removeObserver()" classname="org.example.HumanClientTest" time="0.755"/>
-  <testcase name="addObserver()" classname="org.example.HumanClientTest" time="0.029"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
